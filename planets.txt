@@ -6,4 +6,6 @@ Mars
  - Phobos
  - Deimons
 Jupiter
+ - Io
+ - Europe
 Saturn
